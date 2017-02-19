@@ -6,7 +6,7 @@
   Temperatur auf eine vorgegebene Position.
 
 ## Die bisherige Schaltung der Version 0.1
-(http://imgur.com/a/WRVpw)
+![Schaltplan](http://i.imgur.com/31JvNqd.png)
 
 ##ToDo:
 Einbindung eines Temperaturfühlers, der den Istwert der Umgebung erfasst.
