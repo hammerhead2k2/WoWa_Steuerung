@@ -1,9 +1,12 @@
-# Arduino Projekt "WoWa_Steuerung"
+# Arduino Projekt "WoWa_Steuerung" Version 0.1
 
 ##Temperatursteuerung der Heizung in einem Wohnwagen
 - Die Temperatur kann mittels zweier Taster erhöht bzw. gesenkt werden.
 - Ein Servomoter stellt die Position eines Reglers in Abhängigkeit von der gewählten
   Temperatur auf eine vorgegebene Position.
+
+## Die bisherige Schaltung der Version 0.1
+(http://imgur.com/a/WRVpw)
 
 ##ToDo:
 Einbindung eines Temperaturfühlers, der den Istwert der Umgebung erfasst.
